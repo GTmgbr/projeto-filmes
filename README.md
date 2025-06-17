@@ -6,5 +6,5 @@ Projeto de cadastro de filmes em cartaz utilizando o framework React + API The M
 
 Link de acesso: https://gustavo-totti.netlify.app/
 
-![Image](https://github.com/user-attachments/assets/959b0116-5645-4b1d-b16e-b2b048175064)
+![Image](https://github.com/user-attachments/assets/9c6ceb99-c5cc-4f88-a546-2054aadfa062)
 
